@@ -1,0 +1,102 @@
+.card {
+    border-radius: 0.2rem;
+    padding: 1rem;
+    position: relative;
+    margin: 1rem 0;
+    width: 100%;
+}
+
+.sh-black {
+    box-shadow: 0 0 0.1rem var(--light-black-shadow);
+}
+
+.card-img {
+    height: 5rem;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1;
+}
+
+.lable {
+    font-size: 0.8rem;
+    font-weight: 400;
+}
+
+.card-name {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.card-des {
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.pd-0-4-0 {
+    padding: 0.4rem 0;
+}
+
+.pd-0-0-4 {
+    padding:0 0.4rem ;
+}
+
+.pd-0-2-0 {
+    padding: 0.2rem 0;
+}
+
+.mr-0-0-1 {
+    margin:0 0.1rem ;
+}
+
+.pd-0-1-4 {
+    padding: 0 1.4rem;
+}
+
+.pd-0-1-0-0 {
+    padding: 0 1rem 0 0;
+}
+
+.pd-0-4-0-2-0-0 {
+    padding: 0.4rem 0 0 0.2rem;
+}
+
+.pd-1-4-0 {
+    padding: 1.4rem 0;
+}
+
+.pd-1-0 {
+    padding: 1rem 0;
+}
+
+.hr {
+    position: absolute;
+    width: 100%;
+    top: 4.6rem;
+    left: 0;
+    z-index: 0;
+    background: var(--light-black);
+    border: none;
+    height: 0.05rem;
+}
+
+.card-btn {
+    background: var(--orange);
+    border: none;
+    color: var(--white);
+    padding: 0.2rem 0.6rem;
+    border-radius: 0.2rem;
+    height: 1.6rem;
+    align-items: center;
+    display: flex;
+}
+
+.card-heart {
+    height: 1.2rem;
+    width: auto;
+}
+
+.tags {
+    margin: 0 0.4rem;
+    padding: 0.2rem 1rem;
+    border-radius: 1rem;
+}

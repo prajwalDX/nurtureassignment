@@ -1,0 +1,19 @@
+.home-right {
+    padding: 1rem 2rem 1rem 0.5rem;
+}
+
+.home-left {
+    padding: 1rem 0.5rem 1rem 2rem;
+}
+
+.home-lable {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text);
+}
+
+.home-select {
+    font-size: 0.8rem;
+    padding: 0.4rem 1rem;
+    box-shadow: 0 0 0.1rem var(--light-black-shadow);
+}
